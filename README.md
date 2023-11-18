@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Migeul !
+- 👋 Hi, I’m Miguel !
 - I'm an experienced Telecommunications Professional turning into a Network Engineer.
 - 👀 I’m interested in Networking technologies and Cybersecurity.
 - 🌱 I’m currently learning Cisco Networking and actively preparing for the CCNA certification.
