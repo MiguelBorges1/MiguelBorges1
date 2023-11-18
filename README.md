@@ -1,19 +1,19 @@
- 👋 Hi, I’m Miguel !
+<b><h2>👋 Hi, I’m Miguel !</h2></b>
  
  I'm an experienced Telecommunications Professional turning into a Network Engineer.
 
- 👀 I’m interested in Networking technologies and Cybersecurity.
+ 👀 I’m interested in Networking Technologies and Cybersecurity.
  
  🌱 I’m currently learning Cisco Networking and actively preparing for the CCNA certification.
  
-I'm presently studying 
+I'm presently studying:</br> 
 + Virtualization (VMWare) and Cloud computing - Azure and AWS 
 + Linux (mainly Ubuntu and CentOS distros) and network automation, using mainly Ansible, Puppet and Chef.
  
  Also, Python is part of my bucket list.
  
-  💞️ I’m looking to collaborate on any Junior Network Engineer opportunity.
-
+ <h3>💞️ I’m looking to collaborate on any Junior Network Engineer opportunity !</h3>
+ 
 📫 How to reach me :
 borgesmig@gmail.com
 
