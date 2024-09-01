@@ -9,8 +9,8 @@
  
 I'm presently studying:</br> 
 + Cloud computing - Microsoft Azure and AWS.
-+ Metwork automation: PowerShell, Bash and Ansible.
-+ Linux: Ubuntu for Networking and Kali for Cybersecurity.
++ Network Automation: PowerShell, Bash and Ansible.
++ Linux: Ubuntu (mainly for Networking purposes) and Kali, for Cybersecurity (offensive).
 + Cybersecurity, namely IAM (Identity Access Management.
  
  Also, Python Scripting is part of my bucket list.
