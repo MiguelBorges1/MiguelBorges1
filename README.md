@@ -4,13 +4,16 @@
 
  👀 I’m interested in Networking Technologies and Cybersecurity.
  
- 🌱 I’m currently learning Cisco Networking and actively preparing for the CCNA certification.
+ 🌱 I’m currently lloking for an oportunity in Networking, as a Junior or entry-level Network Engineer/Admin.
+ Also, I keep on learning to became a better Network professional.
  
 I'm presently studying:</br> 
-+ Virtualization (VMWare) and Cloud computing - Azure and AWS 
-+ Linux (mainly Ubuntu and CentOS distros) and network automation, using mainly Ansible, Puppet and Chef.
++ Cloud computing - Microsoft Azure and AWS.
++ Metwork automation: PowerShell, Bash and Ansible.
++ Linux: Ubuntu for Networking and Kali for Cybersecurity.
++ Cybersecurity, namely IAM (Identity Access Management.
  
- Also, Python is part of my bucket list.
+ Also, Python Scripting is part of my bucket list.
  
  <h3>💞️ I’m looking to collaborate on any Junior Network Engineer opportunity !</h3>
  
