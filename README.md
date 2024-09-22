@@ -1,19 +1,18 @@
-<b><h2>👋 Hi, I’m Miguel !</h2></b>
+<b><h2>👋 Hello, my name is Miguel !</h2></b>
  
- I'm an experienced Telecommunications Professional turning into a Network Engineer.
+ I'm a Telecommunications Professional turning into a Network Engineer.
 
- 👀 I’m interested in Networking Technologies and Cybersecurity.
+ 👀 I’m interested in Networking, Cloud technologies and Cybersecurity.
  
- 🌱 I’m currently lloking for an oportunity in Networking, as a Junior or entry-level Network Engineer/Admin.
+ 🌱 I’m currently lloking for an oportunity in Networking, as a Junior or entry-level Network Engineer or Administrator.
  Also, I keep on learning to became a better Network professional.
  
 I'm presently studying:</br> 
-+ Cloud computing - Microsoft Azure and AWS.
-+ Network Automation: PowerShell, Bash and Ansible.
++ Cloud computing - Microsoft Azure, preparing for AZ-900 cert.
++ Network Automation: PowerShell, Bash, Ansible and Terraform.
 + Linux: Ubuntu (mainly for Networking purposes) and Kali, for Cybersecurity (offensive).
-+ Cybersecurity, namely IAM (Identity Access Management.
- 
- Also, Python Scripting is part of my bucket list.
++ Cybersecurity, namely IAM (Identity Access Management. Preparing for CompTia Sec+.
++ Python, for network automation.
  
  <h3>💞️ I’m looking to collaborate on any Junior Network Engineer opportunity !</h3>
  
