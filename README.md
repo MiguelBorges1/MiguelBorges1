@@ -4,19 +4,19 @@
 
  👀 I’m interested in Networking, Cloud technologies and Cybersecurity.
  
- 🌱 I’m currently lloking for an oportunity in Networking, as a Junior or entry-level Network Engineer or Administrator.
+ 🌱 I've recently obtained the CCNA and I'm looking for an opportunity as a Junior or entry-level Network Engineer or Administrator.
  Also, I keep on learning to became a better Network professional.
  
 I'm presently studying:</br> 
-+ Cloud computing - Microsoft Azure, preparing for AZ-900 cert.
-+ Network Automation: PowerShell, Bash, Ansible and Terraform.
-+ Linux: Ubuntu (mainly for Networking purposes) and Kali, for Cybersecurity (offensive).
-+ Cybersecurity, namely IAM (Identity Access Management. Preparing for CompTia Sec+.
-+ Python, for network automation.
- 
- <h3>💞️ I’m looking to collaborate on any Junior Network Engineer opportunity !</h3>
- 
++ Cloud computing - Microsoft Azure, preparing for AZ-900 cert
++ Network Automation: PowerShell, Bash, Ansible and Terraform
++ Linux: Ubuntu (mainly for Networking purposes)
++ Cybersecurity, namely IAM (Identity Access Management. Preparing for CompTia Sec+
++ Python, for network automation
+  
 📫 How to reach me :
+miguel.borges@protonmail.com
+miguelborges@bluewin.ch
 borgesmig@gmail.com
 
 You can check my profile on LinkedIn:
