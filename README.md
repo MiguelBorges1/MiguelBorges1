@@ -1,12 +1,12 @@
-<b><h2>👋 Hello, my name is Miguel</h2></b>
- 
- I'm a Telecommunications Professional turning into a Network Engineer.
+<b><h3>👋  Hello, my name is Miguel</h3></b>
 
- 👀 I’m interested in Networking, Cloud technologies and Cybersecurity.
- 
- 🌱 I've recently obtained the CCNA and I'm looking for an opportunity as a Junior or entry-level Network Engineer or Administrator.
- Also, I keep on learning to became a better Network professional.
- 
+I'm a Telecommunications Professional turning into a Network Engineer.
+
+👀  I’m interested in Networking, Cloud technologies and Cybersecurity.
+
+🌱  I've recently obtained the CCNA and I'm looking for an opportunity as a Junior or entry-level Network Engineer or Administrator.
+    Also, I keep on learning to became a better Network professional.
+
 I'm presently studying:</br> 
 + Networking - Cisco, preparing for the CCNP ENCOR 350-401 Exam
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Cert
