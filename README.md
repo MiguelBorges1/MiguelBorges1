@@ -1,4 +1,4 @@
-<b><h1>👋  Hello, my name is Miguel</h1></b>
+<b><h2>👋  Hello, my name is Miguel</h2></b>
 
 I'm a Telecommunications Professional turning into a Network Engineer.
 I have several years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and at Network Operators, like Vodafone.
