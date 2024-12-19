@@ -1,4 +1,4 @@
-<b><h2>👋  Hello, my name is Miguel</h2></b>
+<b><h1>👋  Hello, my name is Miguel</h1></b>
 
 I'm a Telecommunications Professional turning into a Network Engineer.
 
@@ -16,7 +16,7 @@ I'm presently studying:</br>
 + Python, for network automation
 
 
-<b><h1>My Projects</h1></b>
+<b><h2>My Projects</h2></b>
 
 <!-- 
 -->
