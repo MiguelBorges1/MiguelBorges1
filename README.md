@@ -1,13 +1,16 @@
 <b><h1>👋  Hello, my name is Miguel</h1></b>
 
 I'm a Telecommunications Professional turning into a Network Engineer.
+I have several years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and at Network Operators, like Vodafone.
 
-👀  I’m interested in Networking, Cloud technologies and Cybersecurity.
+However,</br>
+👀  I’ve allways been interested in Networking, Cloud technologies and Cybersecurity.
+-> So, I dicided to learn more, so I can make a (slight) career change.
 
 🌱  I've recently obtained the CCNA and I'm looking for an opportunity as a Junior or entry-level Network Engineer or Administrator.</br>
 Also, I keep on learning to became a better Network professional.
 
-I'm currently learning:</br> 
+I'm currently part-time learning:</br> 
 + Networking - Cisco, preparing for the CCNP ENCOR 350-401 Exam
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Cert
 + Network Automation: PowerShell, Bash, Ansible and Terraform
