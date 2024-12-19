@@ -16,7 +16,7 @@ I'm presently studying:</br>
 + Python, for network automation
 
 
-<b>My Projects <b>
+<b><h2>My Projects <h2><b>
 <!-- 
 
 
