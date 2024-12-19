@@ -1,4 +1,4 @@
-<b><h3>👋 Hello, my name is Miguel</h3></b>
+<b><h2>👋 Hello, my name is Miguel</h2></b>
  
  I'm a Telecommunications Professional turning into a Network Engineer.
 
@@ -15,8 +15,9 @@ I'm presently studying:</br>
 + Cybersecurity, namely IAM (Identity Access Management. Preparing for CompTia Sec+. Also, TryHackMe.
 + Python, for network automation
 
-<!-- My Projects 
 
+<b>My Projects <b>
+<!-- 
 
 
 
