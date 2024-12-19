@@ -1,11 +1,11 @@
-<b><h3>👋  Hello, my name is Miguel</h3></b>
+<b><h2>👋  Hello, my name is Miguel</h2></b>
 
 I'm a Telecommunications Professional turning into a Network Engineer.
 
 👀  I’m interested in Networking, Cloud technologies and Cybersecurity.
 
-🌱  I've recently obtained the CCNA and I'm looking for an opportunity as a Junior or entry-level Network Engineer or Administrator.
-    Also, I keep on learning to became a better Network professional.
+🌱  I've recently obtained the CCNA and I'm looking for an opportunity as a Junior or entry-level Network Engineer or Administrator.</br>
+Also, I keep on learning to became a better Network professional.
 
 I'm presently studying:</br> 
 + Networking - Cisco, preparing for the CCNP ENCOR 350-401 Exam
@@ -16,7 +16,7 @@ I'm presently studying:</br>
 + Python, for network automation
 
 
-<b><h2>My Projects</h2></b>
+<b><h1>My Projects</h1></b>
 
 <!-- 
 -->
@@ -30,7 +30,10 @@ borgesmig@gmail.com
 You can check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1
 
-And my Credly account:</br>
+And My personal site, published here on GitHub:<br/>
+https://github.com/MiguelBorges1/
+
+And Also my Credly account:</br>
 https://www.credly.com/users/miguel-borges/badges?sort=-state_updated_at&page=1
 
 I'll be glad to provide any further details.
