@@ -7,8 +7,6 @@ However,</br>
 👀  I’ve allways been interested in Networking, Cloud technologies and Cybersecurity.</br>
 Therefore, I dicided to learn more, so I can make a (slight) career change.
 
-🏆  I've recently obtained the CCNA and I'm looking for an opportunity as a <ins>Junior or entry-level Network Engineer or Administrator.</ins></br>
-
 I'm currently learning part-time:</br> 
 + Networking - Cisco, preparing for the CCNP ENCOR 350-401 Exam
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Cert
@@ -17,10 +15,10 @@ I'm currently learning part-time:</br>
 + Cybersecurity, namely IAM (Identity Access Management.</br>Preparing for CompTia Sec+.</br>Also, TryHackMe.
 + Python, for network automation
 
-
 <!-- <b><h2>My Projects</h2></b>
 -->
 
+🏆  I've recently obtained the CCNA and I'm looking for an opportunity as a <ins>Junior or entry-level Network Engineer or Administrator.</ins></br>
   
 📫 How to reach me :</br>
 miguel.borges@protonmail.com</br>
