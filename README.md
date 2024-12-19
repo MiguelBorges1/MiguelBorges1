@@ -8,10 +8,11 @@
  Also, I keep on learning to became a better Network professional.
  
 I'm presently studying:</br> 
-+ Cloud computing - Microsoft Azure, preparing for AZ-900 cert
++ Networking - Cisco, preparing for the CCNP ENCOR 350-401 Exam
++ Cloud computing - Microsoft Azure, preparing for AZ-900 Cert
 + Network Automation: PowerShell, Bash, Ansible and Terraform
 + Linux: Ubuntu (mainly for Networking purposes)
-+ Cybersecurity, namely IAM (Identity Access Management. Preparing for CompTia Sec+
++ Cybersecurity, namely IAM (Identity Access Management. Preparing for CompTia Sec+. Also, TryHackMe.
 + Python, for network automation
   
 📫 How to reach me :
