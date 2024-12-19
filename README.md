@@ -1,4 +1,4 @@
-<b><h2>👋 Hello, my name is Miguel !</h2></b>
+<b><h2>👋 Hello, my name is Miguel</h2></b>
  
  I'm a Telecommunications Professional turning into a Network Engineer.
 
@@ -14,6 +14,8 @@ I'm presently studying:</br>
 + Linux: Ubuntu (mainly for Networking purposes)
 + Cybersecurity, namely IAM (Identity Access Management. Preparing for CompTia Sec+. Also, TryHackMe.
 + Python, for network automation
+
+<! My Projects >
   
 📫 How to reach me :</br>
 miguel.borges@protonmail.com</br>
