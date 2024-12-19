@@ -15,15 +15,15 @@ I'm presently studying:</br>
 + Cybersecurity, namely IAM (Identity Access Management. Preparing for CompTia Sec+. Also, TryHackMe.
 + Python, for network automation
   
-📫 How to reach me :
-miguel.borges@protonmail.com
-miguelborges@bluewin.ch
+📫 How to reach me :</br>
+miguel.borges@protonmail.com</br>
+miguelborges@bluewin.ch</br>
 borgesmig@gmail.com
 
-You can check my profile on LinkedIn:
+You can check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1
 
-And my Credly account:
+And my Credly account:</br>
 https://www.credly.com/users/miguel-borges/badges?sort=-state_updated_at&page=1
 
 I'll be glad to provide any further details.
