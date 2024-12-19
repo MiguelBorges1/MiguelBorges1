@@ -30,8 +30,10 @@ borgesmig@gmail.com
 You can check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1
 
+<!--
 And My personal site, published here on GitHub:<br/>
 https://github.com/MiguelBorges1/
+-->
 
 And Also my Credly account:</br>
 https://www.credly.com/users/miguel-borges/badges?sort=-state_updated_at&page=1
