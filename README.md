@@ -14,13 +14,11 @@ I'm currently part-time learning:</br>
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Cert
 + Network Automation: PowerShell, Bash, Ansible and Terraform
 + Linux: Ubuntu (mainly for Networking purposes)
-+ Cybersecurity, namely IAM (Identity Access Management. Preparing for CompTia Sec+. Also, TryHackMe.
++ Cybersecurity, namely IAM (Identity Access Management.</br>Preparing for CompTia Sec+.</br>Also, TryHackMe.
 + Python, for network automation
 
 
-<b><h2>My Projects</h2></b>
-
-<!-- 
+<!-- <b><h2>My Projects</h2></b>
 -->
 
   
