@@ -12,8 +12,8 @@ I'm currently learning part-time:</br>
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Cert
 + Network Automation: PowerShell, Bash, Ansible and Terraform
 + Linux: Ubuntu (mainly for Networking purposes)
-+ Cybersecurity, namely IAM (Identity Access Management.</br>Preparing for CompTia Sec+.</br>Also, TryHackMe.
-+ Python, for network automation
++ Cybersecurity (focused on IAM):</br>CompTia Sec+ under preparation</br>TryHackMe (https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3586534)
++ Python, for network automation purposes
 
 <!-- <b><h2>My Projects</h2></b>
 -->
@@ -22,8 +22,9 @@ I'm currently learning part-time:</br>
   
 📫 How to reach me :</br>
 miguel.borges@protonmail.com</br>
-miguelborges@bluewin.ch</br>
 borgesmig@gmail.com
+miguelborges@bluewin.ch</br>
+
 
 You can check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1
