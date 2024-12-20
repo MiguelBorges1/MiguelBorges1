@@ -22,7 +22,7 @@ I'm currently learning part-time:</br>
   
 📫 How to reach me :</br>
 miguel.borges@protonmail.com</br>
-borgesmig@gmail.com
+borgesmig@gmail.com</br>
 miguelborges@bluewin.ch</br>
 
 
