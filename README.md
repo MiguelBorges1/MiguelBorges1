@@ -39,7 +39,22 @@ https://www.credly.com/users/miguel-borges/badges?sort=-state_updated_at&page=1
 
 I'll be glad to provide any further details.
 
-Thank you !
+Thank you !</br></br>
+
+---------------------------------------------------------------------------------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelborges1&label=Profile%20views&color=0e75b6&style=flat" alt="miguelborges1" /> </p>
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/miguelborges1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguelborges1" height="30" width="40" /></a>
+</p>
+
+<h4 align="left">Languages and Tools:</h4>
+<p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelborges1&show_icons=true&locale=en" alt="miguelborges1" /></p>
+
 <!---
 BorgesMig/BorgesMig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
