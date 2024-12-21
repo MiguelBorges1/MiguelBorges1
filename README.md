@@ -48,7 +48,7 @@ Thank you !</br></br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/miguelborges1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguelborges1" height="30" width="40" /></a>
-<p align="left">
+
 <a href="https://www.credly.com/users/miguel-borges" target="blank"><img align="center" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" height="30" width="40" /></a>
 </p>
 
