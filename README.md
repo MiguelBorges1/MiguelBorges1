@@ -48,6 +48,8 @@ Thank you !</br></br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/miguelborges1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguelborges1" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.credly.com/users/miguel-borges" target="blank"><img align="center" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
@@ -55,7 +57,7 @@ Thank you !</br></br>
 
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=miguelborges1&show_icons=true&locale=en" alt="miguelborges1" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelborges1&" alt="Miguel Borges" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelborges1&" alt="MiguelBorges1" /></p>
 
 <!---
 BorgesMig/BorgesMig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
