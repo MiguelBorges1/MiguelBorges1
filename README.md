@@ -1,7 +1,7 @@
 <b><h2>👋  Hello, my name is Miguel</h2></b>
 
 I'm a Telecommunications Professional turning into a Network Engineer.
-I have several years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and at Network Operators, like Vodafone.
+I have several years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and Network Operators, like Vodafone.
 
 However,</br>
 👀  I’ve allways been interested in Networking, Cloud technologies and Cybersecurity.</br>
@@ -12,7 +12,7 @@ I'm currently learning part-time:</br>
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Cert
 + Network Automation: PowerShell, Bash, Ansible and Terraform
 + Linux: Ubuntu (mainly for Networking purposes)
-+ Cybersecurity (focused on IAM):</br>CompTia Sec+ under preparation</br>TryHackMe (https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3586534)
++ Cybersecurity (focused on IAM):</br>CompTia Sec+ under preparation</br>TryHackMe (https://tryhackme.com/r/p/CyBorges)
 + Python, for network automation purposes
 
 <!-- <b><h2>My Projects</h2></b>
