@@ -16,5 +16,3 @@ jobs:
         with:
           REPOSITORY: MiguelBorges1/MiguelBorges1
           CREDLY_SORT: RECENT
-          CREDLY_USER: miguel-borges_credly
-          
