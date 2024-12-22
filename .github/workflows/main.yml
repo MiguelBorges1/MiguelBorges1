@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: 'MiguelBorges1/badge-readme@main'
+        uses: MiguelBorges1/badge-readme@main
         with:
           REPOSITORY: MiguelBorges1/MiguelBorges1
           CREDLY_USER: miguel-borges-username
