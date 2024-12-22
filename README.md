@@ -23,7 +23,7 @@ I dicided to learn more, so I could become a better professional ⌨️
 🥈  Before that, I did the CCST Networking
 
 So now that I got ready for a (slight) career change </br>
-I'm looking for an opportunity as a <ins> (Junior) Network Engineer or Administrator</ins>, 
+🔀 I'm looking for an opportunity as a <ins> (Junior) Network Engineer or Administrator</ins>, 
 which might also be called <ins>IT Network Engineer/Administrator</ins>
 
 You can check my profile on LinkedIn:</br>
