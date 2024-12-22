@@ -22,7 +22,7 @@ I decided to learn more in order to become a more complete professional ⌨️
 🏆  I've recently obtained the CCNA (200-301)</br>
 🥈  Before that, I got the CCST Networking
 
-So now that I'm fully ready for a (slight) career change </br>
+So, now that I'm fully ready for a (slight) career change </br>
 🔀 I'm looking for an opportunity as a <ins> (Junior) Network Engineer or Administrator</ins>, 
 which might also be called <ins>IT Network Engineer/Administrator</ins>
 
@@ -48,13 +48,11 @@ miguel.borges@protonmail.com</br>
 borgesmig@gmail.com</br>
 miguelborges@bluewin.ch</br>
 
-I'll be glad to provide any further details.
-
-Cheers!</br></br>
+I'll be glad to provide further informaton</br>
+Cheers!</br>
+*Miguel Borges*
 
 ---------------------------------------------------------------------------------
-"Post Scriptum":</br>
-Some further information</br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelborges1&label=Profile%20views&color=0e75b6&style=flat" alt="miguelborges1" /> </p>
 
