@@ -1,22 +1,22 @@
 <b><h2>👋  Hello, my name is Miguel</h2></b>
 
-I'm a Telecommunications Professional turning into a Network Engineer 📱 📡 💻
-I have several years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and Network Operators, like Vodafone 📶
+I'm a Telecommunications Professional turning into a Network Engineer 📱  💻 </br>
+I have several years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and Network Operators, like Vodafone 📶 📡
 
 However,</br>
 👀  I’ve allways been interested in Networking, Cloud technologies and Cybersecurity.</br>
 
 Therefore,</br>
-I dicided to learn more, so I could become a better professional.
+I dicided to learn more, so I could become a better professional ⌨️
 
-I'm currently learning part-time:</br> 
-+ Networking - Cisco, preparing for the CCNP ENCOR 350-401 Exam
-+ Cloud computing - Microsoft Azure, preparing for AZ-900 Cert
+🕤 I'm currently learning part-time:</br>
++ Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam
++ Cloud computing - Microsoft Azure, preparing for AZ-900 Certification
 + Network Automation: PowerShell, Bash, Ansible and Terraform
 + Linux: Ubuntu (mainly for Networking purposes)
-+ Cybersecurity (focused on IAM):
-  </br>CompTia Sec+ under preparation</br>
-  TryHackMe (https://tryhackme.com/r/p/CyBorges)
++ Cybersecurity (focused mainly on IAM):
+  </br>CompTia Security+ under preparation 🛡️</br>
+  TryHackMe (https://tryhackme.com/r/p/CyBorges) 
 + Python, for network automation purposes
 
 🏆  I've recently obtained the CCNA (200-301)</br>
@@ -43,14 +43,14 @@ END_SECTION:badges-->
 Take a look at some of <b><h2>My Projects</h2></b>
 -->
   
-📫 How to reach me :</br>
+📧 How to reach me :</br>
 miguel.borges@protonmail.com</br>
 borgesmig@gmail.com</br>
 miguelborges@bluewin.ch</br>
 
 I'll be glad to provide any further details.
 
-Cheers</br></br>
+Cheers!</br></br>
 
 ---------------------------------------------------------------------------------
 "Post Scriptum":</br>
