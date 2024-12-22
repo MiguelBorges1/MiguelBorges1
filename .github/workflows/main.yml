@@ -12,4 +12,4 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: MiguelBorges1/badge-readme@main
+        uses: pemtajo/badge-readme@main
