@@ -15,5 +15,5 @@ jobs:
         uses: 'pemtajo/badge-readme@main'
         with:
           REPOSITORY: MiguelBorges1/MiguelBorges1
-          #CREDLY_USER: miguel-borges-credly
+          CREDLY_USER: borgesmig-credly
           CREDLY_SORT: RECENT
