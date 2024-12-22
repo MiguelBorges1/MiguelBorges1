@@ -15,5 +15,5 @@ jobs:
         uses: MiguelBorges1/badge-readme@main
         with:
           REPOSITORY: MiguelBorges1/MiguelBorges1
-          CREDLY_USER: miguel-borges-username
+          CREDLY_USER: miguel-borges_credly
           CREDLY_SORT: RECENT
