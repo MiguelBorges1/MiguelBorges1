@@ -4,10 +4,10 @@ I'm a Telecommunications Professional turning into a Network Engineer 📱  💻
 I have several years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and Network Operators, like Vodafone 📶 📡
 
 However,</br>
-👀  I’ve allways been interested in Networking, Cloud technologies and Cybersecurity.</br>
+👀  I've become increasingly interested in networks, cloud technologies and cybersecurity </br>
 
 Therefore,</br>
-I dicided to learn more, so I could become a better professional ⌨️
+I decided to learn more in order to become a more complete professional ⌨️
 
 🕤 I'm currently learning part-time:</br>
 + Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam
@@ -20,9 +20,9 @@ I dicided to learn more, so I could become a better professional ⌨️
 + Python, for network automation purposes
 
 🏆  I've recently obtained the CCNA (200-301)</br>
-🥈  Before that, I did the CCST Networking
+🥈  Before that, I got the CCST Networking
 
-So now that I got ready for a (slight) career change </br>
+So now that I'm fully ready for a (slight) career change </br>
 🔀 I'm looking for an opportunity as a <ins> (Junior) Network Engineer or Administrator</ins>, 
 which might also be called <ins>IT Network Engineer/Administrator</ins>
 
