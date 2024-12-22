@@ -53,12 +53,17 @@ Thank you !</br></br>
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h4 align="left">Statistics:</h4>
+<!--START_SECTION:badges
+<h4> My Credly badges </h4>
+[![CCNA](https://images.credly.com/size/100x100/images/6dadb1cc-71e5-43a8-836f-e16ef33ff394)]([https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394](https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394) "CCNA")
+END_SECTION:badges-->
+
+
+<h4 align="left">GitHub Statistics:</h4>
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=miguelborges1&show_icons=true&locale=en" alt="miguelborges1" />
 <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelborges1&" alt="MiguelBorges1" />
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+
 
 <!---
 BorgesMig/BorgesMig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
