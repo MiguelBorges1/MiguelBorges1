@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: MiguelBorges1/badge-readme@main
-        with:
-          REPOSITORY: MiguelBorges1/MiguelBorges1
-          CREDLY_USER: miguel-borges_credly
-          CREDLY_SORT: RECENT
+        #with:
+          #REPOSITORY: MiguelBorges1/MiguelBorges1
+          #CREDLY_USER: miguel-borges_credly
+          #CREDLY_SORT: RECENT
