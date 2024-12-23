@@ -48,7 +48,7 @@ miguel.borges@protonmail.com</br>
 borgesmig@gmail.com</br>
 miguelborges@bluewin.ch</br>
 
-I'll be glad to provide further informaton</br>
+I'll be glad to provide further information</br>
 Cheers!</br>
 *Miguel Borges*
 
