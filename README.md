@@ -20,7 +20,7 @@ I decided to learn more in order to become a more complete professional ⌨️
 + Python, for network automation purposes
 
 🏆  I've recently obtained the CCNA (200-301)</br>
-🥈  Before that, I got the CCST Networking
+🏅  Before that, I got the CCST Networking
 
 So, now that I'm fully ready for a (slight) career change </br>
 🔀 I'm looking for an opportunity as a <ins> (Junior) Network Engineer or Administrator</ins>, 
@@ -43,7 +43,7 @@ END_SECTION:badges-->
 Take a look at some of <b><h2>My Projects</h2></b>
 -->
   
-📧 How to reach me :</br>
+📧 How you can reach me :</br>
 miguel.borges@protonmail.com</br>
 borgesmig@gmail.com</br>
 miguelborges@bluewin.ch</br>
