@@ -17,7 +17,6 @@ I decided to learn more in order to become a more complete professional ⌨️
 + Cybersecurity (focused mainly on Security Engineering):
   </br>CompTia Security+ under preparation 🛡️</br>
   TryHackMe (https://tryhackme.com/r/p/CyBorges)
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3586534" style='border:none;'></iframe>
 + Python, for network automation purposes
 
 🏆  I've recently obtained the CCNA (200-301)</br>
@@ -64,6 +63,9 @@ Cheers!</br>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+My TryHackMe
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3586534" style='border:none;'></iframe>
 
 <h4 align="left">GitHub Statistics:</h4>
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=miguelborges1&show_icons=true&locale=en" alt="miguelborges1" />
