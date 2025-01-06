@@ -14,9 +14,10 @@ I decided to learn more in order to become a more complete professional ⌨️
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Certification
 + Network Automation: PowerShell, Bash, Ansible and Terraform
 + Linux: Ubuntu (mainly for Networking purposes)
-+ Cybersecurity (focused mainly on IAM):
++ Cybersecurity (focused mainly on Security Engineering):
   </br>CompTia Security+ under preparation 🛡️</br>
-  TryHackMe (https://tryhackme.com/r/p/CyBorges) 
+  TryHackMe (https://tryhackme.com/r/p/CyBorges)
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3586534" style='border:none;'></iframe>
 + Python, for network automation purposes
 
 🏆  I've recently obtained the CCNA (200-301)</br>
