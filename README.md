@@ -7,19 +7,19 @@ However,</br>
 👀  I've become increasingly interested in computer networks, cloud technologies and cybersecurity </br>
 
 Therefore,</br>
-I decided to learn more in order to add skills and thus become a more complete professional ⌨️
+I decided to learn more in order to add skills and thus become a more complete professional 🏔️
 
 🏆  I've recently obtained the CCNA (200-301)</br>
 🏅  Before that, I got the CCST Networking
 
 🕤 I'm currently learning part-time:</br>
-+ Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam
++ Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Certification ☁️
 + Network Automation: PowerShell, Bash, Ansible and Terraform 
 + Linux: Ubuntu (mainly for Networking and Cybersecurity purposes)
 + Cybersecurity (mainly focused on Security Engineering):
   </br>CompTia Security+ under preparation 🛡️</br>
-  TryHackMe (https://tryhackme.com/r/p/CyBorges) 🖥️
+  TryHackMe (https://tryhackme.com/r/p/CyBorges) 👨🏻‍💻
 + Python, for network automation purposes 🐍
 
 So, now that I'm fully ready for a (slight) career change </br>
