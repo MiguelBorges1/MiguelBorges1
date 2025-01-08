@@ -1,26 +1,26 @@
 <b><h2>👋  Hello, my name is Miguel</h2></b>
 
-I'm a Telecommunications Professional turning into a Network Engineer 📱  💻 </br>
+I'm a Telecommunications Professional turning into a Network Engineer 📱 ➡️ 💻 </br>
 I have several years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and Network Operators, like Vodafone 📶 📡
 
 However,</br>
-👀  I've become increasingly interested in networks, cloud technologies and cybersecurity </br>
+👀  I've become increasingly interested in computer networks, cloud technologies and cybersecurity </br>
 
 Therefore,</br>
-I decided to learn more in order to become a more complete professional ⌨️
-
-🕤 I'm currently learning part-time:</br>
-+ Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam
-+ Cloud computing - Microsoft Azure, preparing for AZ-900 Certification
-+ Network Automation: PowerShell, Bash, Ansible and Terraform
-+ Linux: Ubuntu (mainly for Networking purposes)
-+ Cybersecurity (focused mainly on Security Engineering):
-  </br>CompTia Security+ under preparation 🛡️</br>
-  TryHackMe (https://tryhackme.com/r/p/CyBorges)
-+ Python, for network automation purposes
+I decided to learn more in order to add skills and thus become a more complete professional ⌨️
 
 🏆  I've recently obtained the CCNA (200-301)</br>
 🏅  Before that, I got the CCST Networking
+
+🕤 I'm currently learning part-time:</br>
++ Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam
++ Cloud computing - Microsoft Azure, preparing for AZ-900 Certification ☁️
++ Network Automation: PowerShell, Bash, Ansible and Terraform 
++ Linux: Ubuntu (mainly for Networking and Cybersecurity purposes)
++ Cybersecurity (mainly focused on Security Engineering):
+  </br>CompTia Security+ under preparation 🛡️</br>
+  TryHackMe (https://tryhackme.com/r/p/CyBorges) 🖥️
++ Python, for network automation purposes 🐍
 
 So, now that I'm fully ready for a (slight) career change </br>
 🔀 I'm looking for an opportunity as a <ins> (Junior) Network Engineer or Administrator</ins>, 
