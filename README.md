@@ -16,7 +16,7 @@ I decided to learn more in order to add skills and thus become a more complete p
 + Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Certification ☁️
 + Network Automation: PowerShell, Bash, Ansible and Terraform 
-+ Linux: Ubuntu (mainly for Networking and Cybersecurity purposes)
++ Linux: Debian/Ubuntu (mainly for Networking and Cybersecurity purposes)
 + Cybersecurity (mainly focused on Security Engineering):
   </br>CompTia Security+ under preparation 🛡️</br>
   TryHackMe (https://tryhackme.com/r/p/CyBorges) 👨🏻‍💻
