@@ -19,7 +19,7 @@ I decided to learn more in order to add skills and thus become a more complete p
 + Linux: Debian/Ubuntu (mainly for Networking and Cybersecurity purposes)
 + Cybersecurity (mainly focused on Security Engineering):
   </br>CompTia Security+ under preparation 🛡️</br>
-  TryHackMe (https://tryhackme.com/r/p/CyBorges) 👨🏻‍💻
+  TryHackMe (https://tryhackme.com/r/p/CyBorg35) 👨🏻‍💻
 + Python, for network automation purposes 🐍
 
 So, now that I'm fully ready for a (slight) career change </br>
