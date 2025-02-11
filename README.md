@@ -1,7 +1,7 @@
 <b><h2>👋  Hello, my name is Miguel</h2></b>
 
-I'm a Telecommunications Professional turning into a Network Engineer 📱 ➡️ 💻 </br>
-I have several years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and Network Operators, like Vodafone 📶 📡
+I'm a Telecommunications Engineer turning into a Networking Professional 📱 ➡️ 💻 </br>
+I have many years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and a Network Operator, Vodafone 📶 📡
 
 However,</br>
 👀  I've become increasingly interested in computer networks, cloud technologies and cybersecurity </br>
@@ -15,16 +15,17 @@ I decided to learn more in order to add skills and thus become a more complete p
 🕤 I'm currently learning part-time:</br>
 + Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
 + Cloud computing - Microsoft Azure, preparing for AZ-900 Certification ☁️
-+ Network Automation: PowerShell, Bash, Ansible and Terraform 
-+ Linux: Debian/Ubuntu (mainly for Networking and Cybersecurity purposes)
-+ Cybersecurity (mainly focused on Security Engineering):
-  </br>CompTia Security+ under preparation 🛡️</br>
-  TryHackMe (https://tryhackme.com/r/p/CyBorg35) 👨🏻‍💻
++ Network Automation: PowerShell, Ansible and Terraform 
 + Python, for network automation purposes 🐍
++ Linux: Debian/Ubuntu and Kali (mainly for Networking and Cybersecurity purposes)
++ Cybersecurity (mainly focused on Security Engineering):
+  </br>CompTia Security+ under preparation 🛡️
+  </br>TryHackMe (https://tryhackme.com/r/p/CyBorg35) 👨🏻‍💻
+  </br>LetsDefend (https://app.letsdefend.io/user/cyborg35)
 
 So, now that I'm fully ready for a (slight) career change </br>
-🔀 I'm looking for an opportunity as a <ins> (Junior) Network Engineer or Administrator</ins>, 
-which might also be called <ins>IT Network Engineer/Administrator</ins>
+🔀 I'm looking for an opportunity as a  (Junior) <ins> Network Engineer/Administrator</ins>, 
+which might also be called <ins>IT Network Engineer/Administrator</ins> or <ins>Cyber Security Analyst </ins> (Junior/Entry-level role)
 
 You can check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1
