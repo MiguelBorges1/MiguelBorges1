@@ -23,6 +23,8 @@ I decided to learn more in order to add skills and thus become a more complete p
   </br>TryHackMe (https://tryhackme.com/r/p/CyBorg35) 👨🏻‍💻
   </br>LetsDefend (https://app.letsdefend.io/user/cyborg35)
 
+<br/> https://app.letsdefend.io/my-rewards/detail/15cc00c8bfd044529302f9badef1f007
+
 So, now that I'm fully ready for a (slight) career change </br>
 🔀 I'm looking for an opportunity as a  (Junior) <ins> Network Engineer/Administrator</ins>, 
 which might also be called <ins>IT Network Engineer/Administrator</ins> or <ins>Cyber Security Analyst </ins> (Junior/Entry-level role)
