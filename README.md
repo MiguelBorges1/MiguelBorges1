@@ -7,7 +7,7 @@
 -->
 
 I'm a Telecommunications Engineer turning into a Networking Professional 📱 ➡️ 💻 </br>
-I have many years of experience working with mobile technologies, both at 📶 vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson</a> and <a href="https://www.nokia.com/"> Nokia</a>, and a 📡 network operator, <a href="https://www.vodafone.pt/"> Vodafone</a>
+I have many years of experience working with mobile technologies, both at 📶 vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a 📡 network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
 </br>
 
 However,</br>
@@ -15,9 +15,9 @@ However,</br>
 
 Therefore,</br>
 I decided to learn more in order to add skills and thus become a more complete professional 🏔️
-
-🏆  I've recently obtained the CCNA (200-301)</br>
-🏅  Before that, I got the CCST Networking
+>
+<h4> I've recently obtained the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> 🏆 </a></br>
+Before that, I got the CCST Networking <a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> 🏅  </a></h4>
 
 🕤 I'm currently learning part-time:</br>
 + Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
@@ -25,14 +25,13 @@ I decided to learn more in order to add skills and thus become a more complete p
 + Network Automation: PowerShell, Ansible and Terraform 
 + Python, for network automation purposes 🐍
 + Linux: Debian/Ubuntu and Kali (mainly for Networking and Cybersecurity purposes)
-+ Cybersecurity (mainly focused on Security Engineering):
-  </br>CompTia Security+ under preparation 🛡️
-  </br>TryHackMe (https://tryhackme.com/r/p/CyBorg35) 👨🏻‍💻
-  </br>LetsDefend (https://app.letsdefend.io/user/cyborg35)
++ Cybersecurity, focused on SOC Analyst and Security Engineering:
+</br>TryHackMe https://tryhackme.com/r/p/CyBorg35 👨🏻‍💻
+</br>LetsDefend https://app.letsdefend.io/user/cyborg35
+</br>CompTia Security+ under preparation 🛡️
 
 So, now that I'm fully ready for a (slight) career change </br>
-🔀 I'm looking for an opportunity as a  (Junior) <ins> Network Engineer/Administrator</ins>, 
-which might also be called <ins>IT Network Engineer/Administrator</ins> or <ins>Cyber Security Analyst </ins> (Junior/Entry-level role)
+🔀 I'm looking for an opportunity as a <b>Network Engineer/Administrator</b> which might also be called <b>IT Network Eng/Admin</b> or (Junior/Entry-level) <b>Cyber Security Analyst</b>.
 
 You can check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1
