@@ -1,5 +1,5 @@
 <b><h2>👋  Hello, my name is Miguel</h2></b>
-<b><h3><span style="color: blue;"></span>
+<b><h3><span style="color: blue"></span>
  CCNA, Telecom Eng, Project Manager </h3></b>
 
 I'm a Telecommunications Engineer turning into a Networking Professional 📱 ➡️ 💻 </br>
