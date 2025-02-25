@@ -1,13 +1,13 @@
-><h2>👋  Hello, my name is Miguel</h2>
+<h2>  Hello 👋  my name is Miguel <br/></h2>
 
-<h3> <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA, <a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional, <a href="https://en.telehorizon.pt/">Technical Project Manager </h3>
+<h3><br/><a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA</a>, <a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional</a>, <a href="https://en.telehorizon.pt/">Technical Project Manager</a> </h3>
   
 <!--
 <code style="color : blue"> blue color text </code>
 -->
 <br>
 I'm a Telecommunications Engineer turning into a Networking Professional 📱 ➡️ 💻 </br>
-I have many years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and a Network Operator, Vodafone 📶 📡
+I have many years of experience working with mobile technologies, both at vendors/manufacturers like <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson,<a href"https://www.nokia.com/"> Nokia, and a Network Operator, Vodafone 📶 📡
 </br>
 
 However,</br>
