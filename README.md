@@ -1,12 +1,13 @@
-<b><h2>👋  Hello, my name is Miguel</h2></b>
-<b><h3>  CCNA, Telecom Eng, Project Manager  </h3></b>
+><h2>👋  Hello, my name is Miguel</h2>
 
+<h3> <a href="https://www.credly.com/badges/37bd7f8d-25c1-451e-8e79-412cf0fd2a63">CCNA, <a href="www.linkedin.com/in/miguelborges1">Telecom professional, <a href="[www.linkedin.com/in/miguelborges1](https://en.telehorizon.pt/)">Technical Project Manager </h3>
 <!--
 <code style="color : blue"> blue color text </code>
 -->
-
+<br>
 I'm a Telecommunications Engineer turning into a Networking Professional 📱 ➡️ 💻 </br>
 I have many years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and a Network Operator, Vodafone 📶 📡
+</br>
 
 However,</br>
 👀  I've become increasingly interested in computer networks, cloud technologies and cybersecurity </br>
