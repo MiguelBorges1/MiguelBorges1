@@ -1,6 +1,5 @@
 <b><h2>👋  Hello, my name is Miguel</h2></b>
-<b><h3><span style="color: blue">CCNA, Telecom Eng, Project Manager</span>
-  </h3></b>
+<b><h3><span style="color: blue;">CCNA, Telecom Eng, Project Manager</span></h3></b>
 
 I'm a Telecommunications Engineer turning into a Networking Professional 📱 ➡️ 💻 </br>
 I have many years of experience working with mobile technologies, both at vendors/manufacturers like Ericsson and Nokia, and a Network Operator, Vodafone 📶 📡
