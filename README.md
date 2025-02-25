@@ -1,5 +1,5 @@
 <b><h2>👋  Hello, my name is Miguel</h2></b>
-<b><h3> <code style="color:blue"> CCNA, Telecom Eng, Project Manager </code> </h3></b>
+<b><h3> <code style="color : blue"> CCNA, Telecom Eng, Project Manager </code> </h3></b>
 
 
 
