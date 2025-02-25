@@ -5,9 +5,9 @@
 <!--
 <code style="color : blue"> blue color text </code>
 -->
-<br>
+
 I'm a Telecommunications Engineer turning into a Networking Professional 📱 ➡️ 💻 </br>
-I have many years of experience working with mobile technologies, both at vendors/manufacturers like <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson,<a href"https://www.nokia.com/"> Nokia, and a Network Operator, Vodafone 📶 📡
+I have many years of experience working with mobile technologies, both at 📶 vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson</a> and <a href="https://www.nokia.com/"> Nokia</a>, and a 📡 network operator, <a href="https://www.vodafone.pt/"> Vodafone</a>
 </br>
 
 However,</br>
