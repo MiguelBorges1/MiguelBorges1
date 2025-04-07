@@ -32,7 +32,7 @@ Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="http
 </br>LetsDefend https://app.letsdefend.io/user/cyborg35
 </br>CompTia Security+ under preparation 🛡️
 
-So, now that I'm fully ready for a (slight) career change </br>
+As I'm interested in a career switch, </br>
 🔀 I'm looking for an opportunity as a <b>Network Engineer/Administrator</b> which might also be called <b>IT Network Eng/Admin</b> or (Junior/Entry-level) <b>Cyber Security Analyst</b>.
 
 You can check my profile on LinkedIn:</br>
