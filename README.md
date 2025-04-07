@@ -27,7 +27,7 @@ Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="http
 + Network Automation: PowerShell, Ansible and Terraform 
 + Python, for network automation purposes 🐍
 + Linux: Debian/Ubuntu and Kali (mainly for Networking and Cybersecurity purposes)
-+ Cybersecurity, focused on SOC Analyst and Security Engineering:
++ Cybersecurity, focused on Security Analyst / Security Engineer (blue team)
 </br>TryHackMe https://tryhackme.com/r/p/CyBorg35 👨🏻‍💻
 </br>LetsDefend https://app.letsdefend.io/user/cyborg35
 </br>CompTia Security+ under preparation 🛡️
