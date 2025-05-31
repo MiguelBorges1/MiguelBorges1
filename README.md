@@ -10,10 +10,10 @@ I'm a Telecommunications Engineer turning into a Networking Professional 📱 �
 I have many years of experience working with mobile technologies, both at 📶 vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a 📡 network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
 </br>
 
-However,</br>
+Meanwhile,</br>
 👀  I've become increasingly interested in computer networks, cloud technologies and cybersecurity </br>
 
-Therefore,</br>
+So,</br>
 I decided to learn more in order to add skills and thus become a more complete professional 🏔️
 >
 <h4> I've recently obtained the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> 🏆 </a></br>
@@ -23,14 +23,14 @@ Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="http
 
 🕤 I'm currently learning part-time:</br>
 + Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
-+ Cloud computing - Microsoft Azure, preparing for AZ-900 Certification ☁️
++ Cloud computing - Microsoft Azure, starting with AZ-900 Certification ☁️
 + Network Automation: PowerShell, Ansible and Terraform 
-+ Python, for network automation purposes 🐍
++ Python, mainly for network automation purposes 🐍
 + Linux: Debian/Ubuntu and Kali (mainly for Networking and Cybersecurity purposes)
-+ Cybersecurity, focused on Security Analyst / Security Engineer (blue team)
++ Cybersecurity, focused on Security Analyst / Security Engineer (blue team path) 
 </br>TryHackMe https://tryhackme.com/r/p/CyBorg35 👨🏻‍💻
 </br>LetsDefend https://app.letsdefend.io/user/cyborg35
-</br>CompTia Security+ under preparation 🛡️
+</br>CompTia Security+ also under preparation 🛡️
 
 As I'm interested in a career switch, </br>
 🔀 I'm looking for an opportunity as a <b>Network Engineer/Administrator</b> which might also be called <b>IT Network Eng/Admin</b> or (Junior/Entry-level) <b>Cyber Security Analyst</b>.
