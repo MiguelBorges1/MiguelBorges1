@@ -41,6 +41,7 @@ https://www.linkedin.com/in/miguelborges1
 
 And Also my Credly account:</br>
 https://www.credly.com/users/miguel-borges/badges?sort=-state_updated_at&page=1
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
@@ -56,7 +57,6 @@ Take a look at some of <b><h2>My Projects</h2></b>
 📧 How you can reach me :</br>
 miguel.borges@protonmail.com</br>
 borgesmig@gmail.com</br>
-miguelborges@bluewin.ch</br>
 
 I'll be glad to provide further information</br>
 Cheers!</br>
@@ -80,7 +80,9 @@ My TryHackMe
 
 <h4 align="left">GitHub Statistics:</h4>
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=miguelborges1&show_icons=true&locale=en" alt="miguelborges1" />
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelborges1&" alt="MiguelBorges1" />
+</br>
+  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelborges1&" alt="MiguelBorges1" />
+
 
 <!---
 BorgesMig/BorgesMig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
