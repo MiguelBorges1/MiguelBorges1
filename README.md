@@ -6,7 +6,7 @@
 <code style="color : blue"> blue color text </code>
 -->
 
-I'm a Telecommunications Engineer turning into a Networking Professional 📱 ➡️ 💻 </br>
+I'm a Telecommunications Engineer and Network Administrator turning into a Cyber security professional 📱 ➡️ 💻 </br>
 I have many years of experience working with mobile technologies, both at 📶 vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a 📡 network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
 </br>
 
@@ -16,7 +16,7 @@ Meanwhile,</br>
 So,</br>
 I decided to learn more in order to add skills and thus become a more complete professional 🏔️
 >
-<h4> I've recently obtained the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> 🏆 </a></br>
+<h4> I've obtained the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> 🏆 </a></br>
 Before that, I got the CCST Networking <a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> 🏅  </a><br>
 Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> 💪 </a></h4>
 
@@ -27,13 +27,13 @@ Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="http
 + Network Automation: PowerShell, Ansible and Terraform 
 + Python, mainly for network automation purposes 🐍
 + Linux: Debian/Ubuntu and Kali (mainly for Networking and Cybersecurity purposes)
-+ Cybersecurity, focused on Security Analyst / Security Engineer (blue team path) 
++ Cybersecurity, focused on Security Analyst (blue team)
 </br>TryHackMe https://tryhackme.com/r/p/CyBorg35 👨🏻‍💻
 </br>LetsDefend https://app.letsdefend.io/user/cyborg35
-</br>CompTia Security+ also under preparation 🛡️
+</br>CompTia Cysa+ under preparation 🛡️
 
-As I'm interested in a career switch, </br>
-🔀 I'm looking for an opportunity as a <b>Network Engineer/Administrator</b> which might also be called <b>IT Network Eng/Admin</b> or (Junior/Entry-level) <b>Cyber Security Analyst</b>.
+As I'm interested in the following opportunities, </br>
+🔀 <b>Network Engineer/Administrator</b> also called <b>IT Network Eng/Admin</b> and <b>Cyber Security Analyst (Junior/Entry-level) </b>.
 
 You can check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1
