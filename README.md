@@ -20,11 +20,11 @@ Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="http
 
 🕤 I'm currently learning part-time:</br>
 + Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
-+ Cybersecurity, focused on Security Analyst (blue team)
-</br>TryHackMe https://tryhackme.com/r/p/CyBorg35 👨🏻‍💻
++ Cybersecurity, focused on Security Analyst (blue team) and Network Engineering
+</br>TryHackMe https://tryhackme.com/r/p/CyBorg35 👨🏻‍💻 (top 8%)
 </br>LetsDefend https://app.letsdefend.io/user/cyborg35
 </br>CompTia CySA+ under preparation 🛡️
-+ Cloud computing - Microsoft Azure, starting with AZ-900 Certification ☁️
++ Cloud computing - Microsoft Azure, starting with AZ-900 Certification ☁️. Cisco Meraki solutions (MX, MR and MS).
 + Network Automation: PowerShell, Ansible and Terraform 
 + Python, mainly for network automation purposes 🐍
 + Linux: Debian/Ubuntu and Kali (mainly for Networking and Cybersecurity purposes)
