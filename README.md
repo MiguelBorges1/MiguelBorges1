@@ -20,7 +20,7 @@ Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="http
 
 🕤 I'm currently learning part-time:</br>
 + Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
-+ Cybersecurity, focused on Security Analyst (blue team) and Network Engineering
++ Cybersecurity, focused on Security Analyst (blue team) and Security Engineering
 </br>TryHackMe https://tryhackme.com/r/p/CyBorg35 👨🏻‍💻 (top 8%)
 </br>LetsDefend https://app.letsdefend.io/user/cyborg35
 </br>CompTia CySA+ under preparation 🛡️
