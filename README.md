@@ -6,7 +6,7 @@
 <code style="color : blue"> blue color text </code>
 -->
 
-I'm a Telecommunications Engineer and Network Administrator turning into a Cyber security professional 📱 ➡️ 💻 </br>
+I'm a Telecommunications Engineer and Network Associate turning into a Network professional 📱 ➡️ 💻 </br>
 I have many years of experience working with mobile technologies, both at 📶 vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a 📡 network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
 </br>
 👀  Having become increasingly interested in computer networks, cloud technologies and cybersecurity, I have kept up my pace of learning throughout my life, 
@@ -16,19 +16,20 @@ deepen my skills. </br>
  >
 <h4> I've obtained the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> 🏆 </a></br>
 Before that, I got the CCST Networking <a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> 🏅  </a><br>
-Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> 💪 </a></h4>
+Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> 🛡️ </a></h4>
 
 🕤 I'm currently learning part-time:</br>
 + Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
 + Cybersecurity, focused on Security Analyst (blue team) and Security Engineering
 </br>TryHackMe https://tryhackme.com/r/p/CyBorg35 👨🏻‍💻 (top 8%)
 </br>LetsDefend https://app.letsdefend.io/user/cyborg35
+<!--
 </br>CompTia CySA+ under preparation 🛡️
+-->
 + Cloud computing - Microsoft Azure, starting with AZ-900 Certification ☁️. Cisco Meraki solutions (MX, MR and MS).
 + Network Automation: PowerShell, Ansible and Terraform 
 + Python, mainly for network automation purposes 🐍
 + Linux: Debian/Ubuntu and Kali (mainly for Networking and Cybersecurity purposes)
-
 
 As I'm interested in the following opportunities, </br>
 🔀 <b>Network Engineer/Administrator</b> also called <b>IT Network Eng/Admin</b> and <b>Cyber Security Analyst (Junior/Entry-level) </b>.
