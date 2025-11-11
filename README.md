@@ -16,7 +16,7 @@ deepen my skills. </br>
  >
 <h4> I've obtained the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> 🏆 </a></br>
 Before that, I got the CCST Networking <a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> 🏅  </a><br>
-Also, the Fortinet Certified Associate Cybersecurity (former NSA4) <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> 🛡️ </a></h4>
+Also, the Fortinet Certified Associate Cybersecurity <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> 🛡️ </a></h4>
 
 🕤 I'm currently learning part-time:</br>
 + Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
