@@ -6,8 +6,8 @@
 <code style="color : blue"> blue color text </code>
 -->
 
-I'm a Telecommunications Engineer and Cisco Network Associate. </br>
-I'm presently working as a Technical PM and I'm looking for a more technical role, such as Network Administrator or Network Engineer  📱 ➡️ 💻 </br>
+I'm a Telecommunications Engineer and Cisco Network Associate 📱 </br>
+I'm presently working as a Technical PM and I'm looking for a more technical role, such as Network Administrator or Network Engineer 💻 </br>
 I have many years of experience working with mobile technologies, both at 📶 vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a 📡 network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
 </br>
 👀  Having become increasingly interested in computer networks, cloud technologies and cybersecurity, I have kept up my pace of learning throughout my life, 
