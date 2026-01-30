@@ -1,6 +1,6 @@
 <h2>  Hello 👋  my name is Miguel <br/></h2>
 
-<h3><br/><a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA</a>, <a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional</a>, <a href="https://en.telehorizon.pt/">Technical Project Manager</a> </h3>
+<h3><br/><a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA</a>, <a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional</a>, <a href="https://en.telehorizon.pt/">Data Center Consultant</a> </h3>
   
 <!--
 <code style="color : blue"> blue color text </code>
