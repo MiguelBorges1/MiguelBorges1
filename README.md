@@ -6,33 +6,38 @@
 <code style="color : blue"> blue color text </code>
 -->
 
-I'm a Telecommunications Engineer with many years of experience as a technical infrastructure professional who also manages projects  📱 </br>
-I'm also a Computer Networks Administrator with Network Security and Cloud Technologies in mind. 💻 </br>
-I have worked at both at 📶 vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a 📡 network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
+I am a Telecommunications Engineer with many years of experience as a technical infrastructure professional who also manages projects  </br>
+I'm also a Computer Networks Administrator with Network Security and Cloud Technologies in mind. </br>
+I've worked both at vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
 </br>
-👀 I am a senior technical professional who understands delivery, risk, customers, and production environments, and I maintain my pace of lifelong learning, always adding new skills and keeping up to date with technological developments.
+A senior technical professional who understands delivery, risk, customers, and production environments, and I maintain my pace of lifelong learning, always adding new skills and keeping up to date with technological developments.
 </br>
-🏔️
- >
-<h4> I've obtained the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> 🏆 </a></br>
-Before that, I got the CCST Networking <a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> 🏅  </a><br>
-Also, the Fortinet Certified Associate Cybersecurity <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> 🛡️ </a></h4>
+>
+<h5> Because I believe it's important to assess our own knowledge, I've obtained some Industry Certifications: 
 
-🕤 I'm currently learning part-time:</br>
-+ Networking - Cisco, preparing for the CCNP ENCOR (350-401) Exam 
-+ Cybersecurity, focused on Security Analyst (blue team) and Security Engineering
-</br>TryHackMe https://tryhackme.com/r/p/CyBorg35 👨🏻‍💻 (top 8%)
-</br>LetsDefend https://app.letsdefend.io/user/cyborg35
++ the CCST Networking <a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br>
++ the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> deepened my networking skills and introduced security and automation</a></br>
++ Fortinet Certified Associate in Cybersecurity <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> provided me with the foundation to operate FortiGate devices </a></br>
++ Azure Cloud Fundamentals (AZ-900) <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F"> Introduced me to the Microsoft Azure Cloud </a></h5>
+
+During my weekends and evenings, I am currently preparing :</br>
+AZ-104 Azure Administrator Associate (Certification exam)</br>
+Fortinet NSE4 Professional - Cloud Security (2 certification exams)</br>
+Cisco Network Academy - Network Security (course with Labs)</br>
+TryHackMe <!-- https://tryhackme.com/r/p/CyBorg35 --> (top 8%) - Azure and Microsoft Sentinel Rooms (Hands-on Labs)
+</br>
+</br>
+
 <!--
 </br>CompTia CySA+ under preparation 🛡️
 -->
-+ Cloud computing - Microsoft Azure, starting with AZ-900 Certification ☁️. Cisco Meraki solutions (MX, MR and MS).
-+ Network Automation: PowerShell, Ansible and Terraform 
-+ Python, mainly for network automation purposes 🐍
-+ Linux: Debian/Ubuntu and Kali (mainly for Networking and Cybersecurity purposes)
 
-As I'm interested in the following opportunities, </br>
-🔀 <b>Network Engineer/Administrator</b> also called <b>IT Network Eng/Admin</b> and <b>Cyber Security Analyst (Junior/Entry-level) </b>.
+  I am interested in the following opportunities : </br>
+
+<b> Network Engineer/Administrator</b> also called <b> IT Network Eng/Admin </b> </br>
+<b> Technical Service Engineer/Senior Support Engineer </b> </br>
+<b> Cloud Operations Engineer/Infrastructure Network Consultant </b> also called <b> Cloud/Network Engineer </b> or <b> Post-sales/Delivery Engineer </b> </br>
+
 
 You can check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1
