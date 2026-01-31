@@ -10,16 +10,16 @@ I am a Telecommunications Engineer with many years of experience as a technical 
 I'm also a Computer Networks Administrator with Network Security and Cloud Technologies in mind. </br>
 I've worked both at vendors/manufacturers like <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
 </br>
-A senior technical professional who understands delivery, risk, customers, and production environments and has a lifelong learning mentality, always adding new skills and keeping up to date with technological developments.
+A senior technical professional who also understands production environments, documentation, project stakeholders, risk responsibility, and has a continuous learning mindset, always deliberately improving his hands-on skills.
 </br>
 >
-Because I believe it's important to assess its own knowledge, I've obtained some Industry Certifications:
+Because I believe it's important to assess my own knowledge, I've obtained some Industry Certifications:
 + the CCST Networking <a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br>
 + the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> deepened my networking skills and introduced security and automation</a></br>
 + Fortinet Certified Associate in Cybersecurity <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> provided me with the foundation to operate FortiGate devices </a></br>
 + Azure Cloud Fundamentals (AZ-900) <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F"> Introduced me to the Microsoft Azure Cloud </a></h5>
 
-During my weekends and evenings, I am currently preparing :</br>
+During my weekends and evenings, I am currently preparing for: </br>
 AZ-104 Azure Administrator Associate (Certification exam)</br>
 Fortinet NSE4 Professional - Cloud Security (2 certification exams)</br>
 Cisco Network Academy - Network Security (course with Labs)</br>
