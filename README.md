@@ -1,20 +1,19 @@
 <h2>  Hello 👋  my name is Miguel <br/></h2>
 
-<h3><br/><a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA</a>, <a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional</a>, <a href="https://en.telehorizon.pt/">Data Center and Mobile Networks Consultant</a> </h3>
+<h3><br/><a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA,</a> <a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional,</a> <a href="https://en.telehorizon.pt/">Data Center and Mobile Networks Consultant</a> </h3>
   
 <!--
 <code style="color : blue"> blue color text </code>
 -->
 
-I am a Telecommunications Engineer with many years of experience as a technical infrastructure professional who also manages projects  </br>
+I am a Telecommunications Engineer with many years of experience as a technical infrastructure professional who also manages projects.  </br>
 I'm also a Computer Networks Administrator with Network Security and Cloud Technologies in mind. </br>
-I've worked both at vendors/manufacturers like <br/> <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
+I've worked both at vendors/manufacturers like <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
 </br>
-A senior technical professional who understands delivery, risk, customers, and production environments, and I maintain my pace of lifelong learning, always adding new skills and keeping up to date with technological developments.
+A senior technical professional who understands delivery, risk, customers, and production environments and has a lifelong learning mentality, always adding new skills and keeping up to date with technological developments.
 </br>
 >
-<h5> Because I believe it's important to assess our own knowledge, I've obtained some Industry Certifications: 
-
+Because I believe it's important to assess its own knowledge, I've obtained some Industry Certifications:
 + the CCST Networking <a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br>
 + the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> deepened my networking skills and introduced security and automation</a></br>
 + Fortinet Certified Associate in Cybersecurity <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> provided me with the foundation to operate FortiGate devices </a></br>
