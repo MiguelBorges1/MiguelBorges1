@@ -19,11 +19,12 @@ Because I believe it's important to assess my own knowledge, I've obtained some 
 + Fortinet Certified Associate in Cybersecurity <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> provided me with the foundation to operate FortiGate devices </a></br>
 + Azure Cloud Fundamentals (AZ-900) <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F"> Introduced me to the Microsoft Azure Cloud </a></h5>
 
-During my weekends and evenings, I am currently preparing for: </br>
+During weekends, evenings and "free time", I am currently preparing : </br>
 AZ-104 Azure Administrator Associate (Certification exam)</br>
+Cisco CCNP Enterprise - ENCOR (350-401 exam)</br>
 Fortinet NSE4 Professional - Cloud Security (2 certification exams)</br>
 Cisco Network Academy - Network Security (course with Labs)</br>
-TryHackMe <!-- https://tryhackme.com/r/p/CyBorg35 --> (top 8%) - Azure and Microsoft Sentinel Rooms (Hands-on Labs)
+TryHackMe <!-- https://tryhackme.com/r/p/CyBorg35 --> (top 7%) - Network Security and Azure / Microsoft Sentinel Rooms (Hands-on Labs)
 </br>
 </br>
 
