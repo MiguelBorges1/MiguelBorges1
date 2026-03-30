@@ -24,20 +24,18 @@ Because I believe in self-assessment and structuted learming, I keep on obtainin
 + the CCNA - 200-301 (2024)<a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> deepened my networking skills and introduced security and automation</a></br>
 + the CCST Networking (2024)<a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br>
 
-On Weekends, holidays, and other "free time" periods - I am currently preparing : </br>
+On Weekends, holidays, and other "free time" periods, I'm currently learning: </br>
 AZ-104 Azure Administrator Associate (Certification exam)</br>
 Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/credentials/applied-skills"> Microsoft Learn (hands-on labs) </a></br>
-CCNP Enterprise: ENCOR (350-401) + ENAUTO (350-410) exams </br>
+CCNP Enterprise: ENCOR (350-401) + ENAUTO (300-435) exams </br>
 Fortinet NSE4 Professional - Cloud Security (2 certification exams)</br>
 TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
-</br>
+
 </br>
 
-<!--
-</br>CompTia CySA+ under preparation 🛡️
--->
-
-  I am interested in the following opportunities : </br>
+<h3>
+I might be interested in the following opportunities:
+</h3>
 
 <b> Network Engineer/Administrator</b> also called <b> IT Network Eng/Admin </b> </br>
 <b> Technical Service Engineer/Senior Support Engineer </b> </br>
