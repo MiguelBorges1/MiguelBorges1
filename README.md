@@ -26,10 +26,10 @@ Because I believe in self-assessment and structuted learming, I keep on obtainin
 
 On Weekends, holidays, and other "free time" periods - I am currently preparing : </br>
 AZ-104 Azure Administrator Associate (Certification exam)</br>
-Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/credentials/applied-skills"> Microsoft Learn </a></br>
-Cisco CCNP Enterprise : ENCOR (350-401 exam) + ENAUTO (350-410 exam) </br>
+Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/credentials/applied-skills"> Microsoft Learn (hands-on labs) </a></br>
+CCNP Enterprise: ENCOR (350-401) + ENAUTO (350-410) exams </br>
 Fortinet NSE4 Professional - Cloud Security (2 certification exams)</br>
-TryHackMe <!-- https://tryhackme.com/r/p/CyBorg35 --> (top 6%) - Network Security and Azure / Microsoft Sentinel Rooms (Hands-on Labs)
+TryHackMe <!-- https://tryhackme.com/r/p/CyBorg35 --> (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms (Hands-on Labs)
 </br>
 </br>
 
