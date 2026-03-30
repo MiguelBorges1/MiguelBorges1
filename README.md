@@ -29,7 +29,7 @@ AZ-104 Azure Administrator Associate (Certification exam)</br>
 Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/credentials/applied-skills"> Microsoft Learn (hands-on labs) </a></br>
 CCNP Enterprise: ENCOR (350-401) + ENAUTO (350-410) exams </br>
 Fortinet NSE4 Professional - Cloud Security (2 certification exams)</br>
-TryHackMe <!-- https://tryhackme.com/r/p/CyBorg35 --> (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms (Hands-on Labs)
+TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
 </br>
 </br>
 
