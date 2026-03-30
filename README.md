@@ -1,7 +1,12 @@
 <h2>  Hello 👋  my name is Miguel <br/></h2>
 
-<h3><br/><a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA,</a> <a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional,</a> <a href="https://en.telehorizon.pt/">Data Center and Mobile Networks Consultant</a> </h3>
-  
+<h3> 
+<a href="https://en.telehorizon.pt/">Data Center and Mobile Networks Consultant, </a>
+<a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional, </a>
+<a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA</a>
+<br/>
+</h3>
+
 <!--
 <code style="color : blue"> blue color text </code>
 -->
@@ -13,18 +18,19 @@ I've worked both at vendors/manufacturers like <a href="https://www.ericsson.com
 A senior technical professional who also understands production environments, documentation, project stakeholders, risk responsibility, and has a continuous learning mindset, always deliberately improving his hands-on skills.
 </br>
 >
-Because I believe it's important to assess my own knowledge, I've obtained some Industry Certifications:
-+ the CCST Networking <a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br>
-+ the CCNA (200-301) <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> deepened my networking skills and introduced security and automation</a></br>
-+ Fortinet Certified Associate in Cybersecurity <a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> provided me with the foundation to operate FortiGate devices </a></br>
-+ Azure Cloud Fundamentals (AZ-900) <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F"> Introduced me to the Microsoft Azure Cloud </a></h5>
+Because I believe in self-assessment and structuted learming, I keep on obtaining credible Industry Certifications:
++ Azure Cloud Fundamentals - AZ-900 (2026)<a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F"> Introduced me to the Microsoft Azure Cloud </a></h5>
++ Fortinet Certified Associate in Cybersecurity (2025)<a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> provided me with the foundation to operate FortiGate devices </a></br>
++ the CCNA - 200-301 (2024)<a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> deepened my networking skills and introduced security and automation</a></br>
++ the CCST Networking (2024)<a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br>
 
-During weekends, evenings and "free time", I am currently preparing : </br>
+On Weekends, holidays, some late evenings and other "free time" periods - I am currently preparing : </br>
 AZ-104 Azure Administrator Associate (Certification exam)</br>
+Microsoft Applied Skills on <a href=https://learn.microsoft.com/en-us/credentials/applied-skills/> </a> </br>
 Cisco CCNP Enterprise - ENCOR (350-401 exam)</br>
 Fortinet NSE4 Professional - Cloud Security (2 certification exams)</br>
 Cisco Network Academy - Network Security (course with Labs)</br>
-TryHackMe <!-- https://tryhackme.com/r/p/CyBorg35 --> (top 7%) - Network Security and Azure / Microsoft Sentinel Rooms (Hands-on Labs)
+TryHackMe <!-- https://tryhackme.com/r/p/CyBorg35 --> (top 6%) - Network Security and Azure / Microsoft Sentinel Rooms (Hands-on Labs)
 </br>
 </br>
 
