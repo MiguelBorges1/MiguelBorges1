@@ -24,12 +24,11 @@ Because I believe in self-assessment and structuted learming, I keep on obtainin
 + the CCNA - 200-301 (2024)<a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> deepened my networking skills and introduced security and automation</a></br>
 + the CCST Networking (2024)<a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br>
 
-On Weekends, holidays, some late evenings and other "free time" periods - I am currently preparing : </br>
+On Weekends, holidays, and other "free time" periods - I am currently preparing : </br>
 AZ-104 Azure Administrator Associate (Certification exam)</br>
-Microsoft Applied Skills on <a href=https://learn.microsoft.com/en-us/credentials/applied-skills/> </a> </br>
-Cisco CCNP Enterprise - ENCOR (350-401 exam)</br>
+Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/credentials/applied-skills"> Microsoft Learn </a></br>
+Cisco CCNP Enterprise : ENCOR (350-401 exam) + ENAUTO (350-410 exam) </br>
 Fortinet NSE4 Professional - Cloud Security (2 certification exams)</br>
-Cisco Network Academy - Network Security (course with Labs)</br>
 TryHackMe <!-- https://tryhackme.com/r/p/CyBorg35 --> (top 6%) - Network Security and Azure / Microsoft Sentinel Rooms (Hands-on Labs)
 </br>
 </br>
