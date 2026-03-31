@@ -25,8 +25,8 @@ Because I believe in self-assessment and structuted learming, I keep on obtainin
 + the CCST Networking (2024)<a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br>
 
 What I'm currently working on during weekends, holidays, and other "free time" periods: </br>
-1) Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/credentials/applied-skills"> Microsoft Learn (hands-on labs) </a></br>
-2) Documenting Azure projects to reinforce skills in realistic environments on Medium and Git</br>
+1) Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials?tab=applied-skills-tab"> Microsoft Learn (hands-on labs) </a></br>
+2) Documenting Azure projects to reinforce my skills in realistic environments on Medium and Git</br>
 3) AZ-104 Azure Administrator Associate (Certification exam) - Active preparation </br>
 4) CCNP Enterprise: ENCOR (350-401) + ENAUTO (300-435) exams - Preparing </br>
 5) Fortinet NSE4 Professional - Cloud Security (2 certification exams) - Planned </br>
