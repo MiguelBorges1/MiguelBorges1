@@ -29,7 +29,7 @@ What I'm currently working on during weekends, holidays, and other "free time" p
 2) Documenting Azure projects to reinforce my skills in realistic environments on Medium and Git</br>
 3) AZ-104 Azure Administrator Associate (Certification exam) - Active preparation </br>
 4) CCNP Enterprise: ENCOR (350-401) + ENAUTO (300-435) exams - Preparing </br>
-5) Fortinet NSE4 Professional - Cloud Security (2 certification exams) - Planned </br>
+5) Terraform Associate 004 Certification Exam - Preparing
 6) TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
 
 </br>
