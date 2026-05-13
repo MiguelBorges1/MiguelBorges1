@@ -27,11 +27,11 @@ Because I believe in self-assessment and structuted learming, I keep on obtainin
 What I'm currently working on during weekends, holidays, and other "free time" periods: </br>
 1) Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials?tab=applied-skills-tab"> Microsoft Learn (hands-on labs) </a></br>
 2) Building Azure projects, to reinforce my skills, in realistic environments. Documenting on GitHub Repositories and writing on HashNode. </br>
-3) AZ-104 Azure Administrator Associate (Certification exam) - Active preparation. Target 2026 </br>
-4) CCNP Enterprise: ENCOR (350-401) exam - target 2026 - and a concentration exam, probably ENAUTO (300-435) - target 2027 </br>
+3) AZ-104 Azure Administrator Associate (Certification exam) - Active preparation. Target - 2026 </br>
 5) Terraform Associate 004 Certification Exam - 2026 </br>
 6) Linux LFS101 - 2026 </br>
-7) TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
+7) CCNP Enterprise: ENCOR (350-401) exam - target 2026/27 - and a concentration exam, probably ENAUTO (300-435) - target 2027 </br>
+8) TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
 
 </br>
 
