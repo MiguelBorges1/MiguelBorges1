@@ -26,11 +26,12 @@ Because I believe in self-assessment and structuted learming, I keep on obtainin
 
 What I'm currently working on during weekends, holidays, and other "free time" periods: </br>
 1) Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials?tab=applied-skills-tab"> Microsoft Learn (hands-on labs) </a></br>
-2) Documenting Azure projects to reinforce my skills in realistic environments on Medium and Git</br>
-3) AZ-104 Azure Administrator Associate (Certification exam) - Active preparation </br>
-4) CCNP Enterprise: ENCOR (350-401) + ENAUTO (300-435) exams - Preparing </br>
-5) Terraform Associate 004 Certification Exam - Preparing
-6) TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
+2) Building Azure projects, to reinforce my skills, in realistic environments. Documenting on GitHub Repositories and writing on HashNode. </br>
+3) AZ-104 Azure Administrator Associate (Certification exam) - Active preparation. Target 2026 </br>
+4) CCNP Enterprise: ENCOR (350-401) exam - target 2026 - and a concentration exam, probably ENAUTO (300-435) - target 2027 </br>
+5) Terraform Associate 004 Certification Exam - 2026 </br>
+6) Linux LFS101 - 2026 </br>
+7) TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
 
 </br>
 
@@ -43,10 +44,13 @@ I might be interested in the following opportunities:
 <b> Cloud Operations Engineer/Infrastructure Network Consultant </b> also called <b> Cloud/Network Engineer </b> or <b> Post-sales/Delivery Engineer </b> </br>
 
 
-You can check my profile on LinkedIn:</br>
+Check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1
 
-And Also my Credly account:</br>
+<!--My HashNode:-->
+
+
+My Credly account:</br>
 https://www.credly.com/users/miguel-borges/badges?sort=-state_updated_at&page=1
 
 <!--START_SECTION:badges-->
