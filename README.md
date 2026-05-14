@@ -1,72 +1,84 @@
-<h2> Hello, my name is Miguel <br/> </h2> 
-<!-- 👋 <br/> -->
-<h3> 
-<a href="https://en.telehorizon.pt/">Data Center and Mobile Networks Consultant, </a>
-<a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional, </a>
-<a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA</a>
-<br/>
-</h3>
-<!--<code style="color : blue"> blue color text </code>-->
-I am a Telecommunications Engineer with many years of experience as a technical infrastructure professional who also manages projects.  </br>
-I'm also a Computer Networks Administrator with Network Security and Cloud Technologies in mind. </br>
-I've worked both at vendors/manufacturers like <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
-</br></br>
-A senior technical professional who also understands production environments, documentation, project stakeholders, risk responsibility, and has a continuous learning mindset, always deliberately improving my hands-on skills.
-</br></br>
-I believe in self-assessment and structuted learming, so I keep on buidind and applying the obtained knowledge in a consistent and as-organized-as-possible way. Therefore, I sometimes  get Industry-recognised certifications, like:
-</br>
-&#9679; Azure Cloud Fundamentals - AZ-900 (2026)<a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F"> Introduced me to the Microsoft Azure Cloud world </a></h5></br>
-&#9679; Fortinet Certified Associate in Cybersecurity (2025)<a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> showed me FortiGate devices operation and broaden my cybersecurity awarness </a></br>
-&#9679; the CCNA - 200-301 (2024)<a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> consolidated my networking skills </a></br>
-&#9679; the CCST Networking (2024)<a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br></br>
+# 👋 Hello, I'm Miguel
 
-Currently, during weekends, holidays, and other "free time" periods, I'm working on: </br>
-1) Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials?tab=applied-skills-tab"> Microsoft Learn (hands-on labs) </a></br>
-2) Building Azure projects, to reinforce my skills, in realistic environments. Documenting it on GitHub Repositories and writing on **HashNode**. </br>
-3) Azure Administrator Associate (AZ-104 exam) - Certification under active preparation. Target - August 2026 </br>
-5) HashiCorp Terraform Associate (004 certification exam) - September 2026 </br>
-6) Linux LFS101 - November 2026 </br>
-7) CCNP Enterprise: ENCOR (350-401) exam - planned for August 2027 + concentration exam, maybe ENAUTO (300-435) - under evaluation</br>
-8) TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
+**Data Center and Mobile Networks Consultant** | **Telecom Professional** | **[CCNA](https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394)**
 
-<h3>&rarr; I might be interested in the following opportunities: </h3>
-<b> Network Engineer/Administrator</b> also called <b> IT Network Eng/Admin </b> </br>
-<b> Technical Service Engineer/Senior Support Engineer </b> </br>
-<b> Cloud Operations Engineer/Infrastructure Network Consultant </b> also called <b> Cloud/Network Engineer </b> or <b> Post-sales/Delivery Engineer </b> </br></br>
+---
 
-Check my profile on LinkedIn:</br>
-https://www.linkedin.com/in/miguelborges1 </br>
-<!--My HashNode:-->
-My Credly account:</br>
-https://www.credly.com/users/miguel-borges/badges?sort=-state_updated_at&page=1
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-<!--<h4> My Credly badges </h4>
-[![CCNA](https://images.credly.com/size/100x100/images/6dadb1cc-71e5-43a8-836f-e16ef33ff394)]([https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394](https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394) "CCNA")
-END_SECTION:badges-->
-<!-- Take a look at some of <b><h2>My Projects</h2></b>-->
+## 📌 About Me
 
-📧 How you can reach me :</br>
-miguel.borges@protonmail.com</br>
-borgesmig@gmail.com</br>
+I am a **Telecommunications Engineer** with extensive experience as a technical infrastructure professional who also manages projects. I'm a **Computer Networks Administrator** focused on Network Security and Cloud Technologies.
 
-I'll be glad to provide further information</br>
-Best Regards,</br>
-*Miguel Borges* </br>
-*_________________________________________________________________________________________*
-</br>
-<h4 align="left">Connect with me:</h4>
+I've worked at leading vendors and manufacturers including [Ericsson](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal) and [Nokia](https://www.nokia.com/), as well as in consulting and service provider environments.
+
+A senior technical professional who understands production environments, documentation, project stakeholders, risk management, and maintains a continuous learning mindset. I'm deliberate about staying ahead of industry changes and best practices.
+
+I believe in **self-assessment and structured learning**, so I keep building and applying knowledge in a consistent and organized way. I regularly pursue industry certifications to validate and expand my expertise.
+
+---
+
+## 🏆 Certifications & Learning Journey
+
+- **Azure Cloud Fundamentals - AZ-900** (2026) — [Credential](https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F) | Introduced me to the foundations of cloud infrastructure
+- **Fortinet Certified Associate in Cybersecurity** (2025) — [Credential](https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94) | FortiGate devices operation and cybersecurity fundamentals
+- **CCNA - 200-301** (2024) — [Credential](https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394) | Consolidated my networking skills
+- **CCST Networking** (2024) — [Credential](https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc) | Cisco networking fundamentals
+
+---
+
+## 🎯 Current Learning & Development
+
+Currently working on (weekends, holidays, and free time):
+
+1. **Microsoft Applied Skills** — [Hands-on Labs on Microsoft Learn](https://learn.microsoft.com/en-us/users/miguelborges/credentials?tab=applied-skills-tab)
+2. **Building Azure Projects** — Reinforcing skills in realistic environments, documenting on GitHub and writing on **Hashnode**
+3. **Azure Administrator Associate (AZ-104)** — Certification under active preparation | **Target: August 2026**
+4. **HashiCorp Terraform Associate (004)** — Certification exam | **Target: September 2026**
+5. **Linux LFS101** — Foundation course | **Target: November 2026**
+6. **CCNP Enterprise: ENCOR (350-401)** — Planned for August 2027, plus concentration exam (possibly ENAUTO 300-435 under evaluation)
+7. **TryHackMe** — Top 6% | Network Security and Azure/Microsoft Sentinel focused [Hands-on Labs](https://tryhackme.com/p/CyBorg35)
+
+---
+
+## 💼 Career Interests
+
+I'm open to opportunities as:
+
+- **Network Engineer / IT Network Administrator**
+- **Technical Service Engineer / Senior Support Engineer**
+- **Cloud Operations Engineer / Infrastructure Network Consultant**
+- **Cloud/Network Engineer** or **Post-sales/Delivery Engineer**
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="left">
-<a href="https://linkedin.com/in/miguelborges1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguelborges1" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=miguelborges1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelborges1&label=Profile%20views&color=0e75b6&style=flat" alt="miguelborges1" /> </p>
-<!-- <h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
-<!--- My TryHackMe <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3586534" style='border:none;'></iframe>--->
-<h4 align="left">GitHub Statistics:</h4>
-<p>&nbsp;
-<!-- <img align="centre" src="https://github-readme-stats.vercel.app/api?username=miguelborges1&show_icons=true&locale=en" alt="miguelborges1" /> -->
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelborges1&" alt="MiguelBorges1" />
-<!---BorgesMig/BorgesMig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.--->
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelborges1&" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/miguelborges1](https://www.linkedin.com/in/miguelborges1)
+- **Credly:** [My Certifications](https://www.credly.com/users/miguel-borges/badges?sort=-state_updated_at&page=1)
+- **TryHackMe:** [CyBorg35](https://tryhackme.com/p/CyBorg35)
+
+---
+
+## 📧 Contact
+
+**Email:**
+- miguel.borges@protonmail.com
+- borgesmig@gmail.com
+
+I'll be happy to provide further information and discuss opportunities!
+
+---
+
+**Best Regards,**  
+**Miguel Borges**
