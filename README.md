@@ -32,7 +32,8 @@ Currently, during weekends, holidays, and other "free time" periods, I'm working
 <h3>&rarr; I might be interested in the following opportunities: </h3>
 <b> Network Engineer/Administrator</b> also called <b> IT Network Eng/Admin </b> </br>
 <b> Technical Service Engineer/Senior Support Engineer </b> </br>
-<b> Cloud Operations Engineer/Infrastructure Network Consultant </b> also called <b> Cloud/Network Engineer </b> or <b> Post-sales/Delivery Engineer </b> </br>
+<b> Cloud Operations Engineer/Infrastructure Network Consultant </b> also called <b> Cloud/Network Engineer </b> or <b> Post-sales/Delivery Engineer </b> </br></br>
+
 Check my profile on LinkedIn:</br>
 https://www.linkedin.com/in/miguelborges1 </br>
 <!--My HashNode:-->
