@@ -1,16 +1,14 @@
-<h2>  Hello 👋  my name is Miguel <br/></h2>
-
+<h2> Hello, my name is Miguel <br/> </h2> 
+<!-- 👋 <br/> -->
 <h3> 
 <a href="https://en.telehorizon.pt/">Data Center and Mobile Networks Consultant, </a>
 <a href="https://www.linkedin.com/in/miguelborges1/">Telecom professional, </a>
 <a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394">CCNA</a>
 <br/>
 </h3>
-
 <!--
 <code style="color : blue"> blue color text </code>
 -->
-
 I am a Telecommunications Engineer with many years of experience as a technical infrastructure professional who also manages projects.  </br>
 I'm also a Computer Networks Administrator with Network Security and Cloud Technologies in mind. </br>
 I've worked both at vendors/manufacturers like <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
