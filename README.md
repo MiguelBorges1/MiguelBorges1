@@ -11,7 +11,7 @@ I am a Telecommunications Engineer with many years of experience as a technical 
 I'm also a Computer Networks Administrator with Network Security and Cloud Technologies in mind. </br>
 I've worked both at vendors/manufacturers like <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
 </br></br>
-A senior technical professional who also understands production environments, documentation, project stakeholders, risk responsibility, and has a continuous learning mindset, always deliberately improving his hands-on skills.
+A senior technical professional who also understands production environments, documentation, project stakeholders, risk responsibility, and has a continuous learning mindset, always deliberately improving my hands-on skills.
 </br></br>
 I believe in self-assessment and structuted learming, so I keep on buidind and applying the obtained knowledge in a consistent and as-organized-as-possible way. Therefore, I sometimes  get Industry-recognised certifications, like:
 </br>
