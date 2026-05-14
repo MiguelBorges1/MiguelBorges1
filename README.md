@@ -16,7 +16,7 @@ A senior technical professional who also understands production environments, do
 I believe in self-assessment and structuted learming, so I keep on buidind and applying the obtained knowledge in a consistent and as-organized-as-possible way. Therefore, I sometimes  get Industry-recognised certifications, like:
 </br>
 &#9679; Azure Cloud Fundamentals - AZ-900 (2026)<a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F"> Introduced me to the Microsoft Azure Cloud world </a></h5></br>
-&#9679; Fortinet Certified Associate in Cybersecurity (2025)<a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> showed me how to operate FortiGate devices, and broaden my cybersecurity awarness </a></br>
+&#9679; Fortinet Certified Associate in Cybersecurity (2025)<a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> showed me FortiGate devices operation and broaden my cybersecurity awarness </a></br>
 &#9679; the CCNA - 200-301 (2024)<a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> consolidated my networking skills </a></br>
 &#9679; the CCST Networking (2024)<a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br></br>
 
