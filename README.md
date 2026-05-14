@@ -24,7 +24,7 @@ Currently, during weekends, holidays, and other "free time" periods, I'm working
 1) Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials?tab=applied-skills-tab"> Microsoft Learn (hands-on labs) </a></br>
 2) Building Azure projects, to reinforce my skills, in realistic environments. Documenting it on GitHub Repositories and writing on **HashNode**. </br>
 3) Azure Administrator Associate (AZ-104 exam) - Certification under active preparation. Target - August 2026 </br>
-5) Terraform Associate (004 Certification exam) - September 2026 </br>
+5) HashiCorp Terraform Associate (004 certification exam) - September 2026 </br>
 6) Linux LFS101 - November 2026 </br>
 7) CCNP Enterprise: ENCOR (350-401) exam - planned for August 2027 + concentration exam, maybe ENAUTO (300-435) - under evaluation</br>
 8) TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
