@@ -12,23 +12,23 @@
 I am a Telecommunications Engineer with many years of experience as a technical infrastructure professional who also manages projects.  </br>
 I'm also a Computer Networks Administrator with Network Security and Cloud Technologies in mind. </br>
 I've worked both at vendors/manufacturers like <a href="https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal">Ericsson </a> and <a href="https://www.nokia.com/"> Nokia </a>, and a network operator, <a href="https://www.vodafone.pt/"> Vodafone </a>
-</br>
+</br></br>
 A senior technical professional who also understands production environments, documentation, project stakeholders, risk responsibility, and has a continuous learning mindset, always deliberately improving his hands-on skills.
+</br></br>
+I believe in self-assessment and structuted learming, so I keep on learning and buidind, applying the obtained knowledge. Sometimes I also get Industry-recognised Certifications, like:
 </br>
->
-Because I believe in self-assessment and structuted learming, I keep on obtaining credible Industry Certifications:
-+ Azure Cloud Fundamentals - AZ-900 (2026)<a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F"> Introduced me to the Microsoft Azure Cloud </a></h5>
-+ Fortinet Certified Associate in Cybersecurity (2025)<a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> provided me with the foundation to operate FortiGate devices </a></br>
-+ the CCNA - 200-301 (2024)<a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> deepened my networking skills and introduced security and automation</a></br>
-+ the CCST Networking (2024)<a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br>
++ Azure Cloud Fundamentals - AZ-900 (2026)<a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials/b8779f7e49c19ce4?ref=https%3A%2F%2Fwww.credly.com%2F"> Introduced me to the Microsoft Azure Cloud world </a></h5></br>
++ Fortinet Certified Associate in Cybersecurity (2025)<a href="https://www.credly.com/badges/43233cc4-87fd-481c-b89b-6073a949ca94"> showed me how to operate FortiGate devices, and broaden my cybersecurity awarness </a></br>
++ the CCNA - 200-301 (2024)<a href="https://www.credly.com/badges/6dadb1cc-71e5-43a8-836f-e16ef33ff394"> consolidated my networking skills </a></br>
++ the CCST Networking (2024)<a href="https://www.credly.com/badges/9f39e051-3b80-40dc-b2c9-24c50c2635dc"> taught me the fundamentals of Cisco networking </a><br></br>
 
-What I'm currently working on during weekends, holidays, and other "free time" periods: </br>
+Currently, during weekends, holidays, and other "free time" periods, I'm working on: </br>
 1) Microsoft Applied Skills on <a href="https://learn.microsoft.com/en-us/users/miguelborges/credentials?tab=applied-skills-tab"> Microsoft Learn (hands-on labs) </a></br>
-2) Building Azure projects, to reinforce my skills, in realistic environments. Documenting on GitHub Repositories and writing on HashNode. </br>
-3) AZ-104 Azure Administrator Associate (Certification exam) - Active preparation. Target - 2026 </br>
-5) Terraform Associate 004 Certification Exam - 2026 </br>
-6) Linux LFS101 - 2026 </br>
-7) CCNP Enterprise: ENCOR (350-401) exam - target 2026/27 - and a concentration exam, probably ENAUTO (300-435) - target 2027 </br>
+2) Building Azure projects, to reinforce my skills, in realistic environments. Documenting on GitHub Repositories and writing on **HashNode**. </br>
+3) Azure Administrator Associate (AZ-104 exam) - Certification under active preparation. Target - August 2026 </br>
+5) Terraform Associate (004 Certification exam) - September 2026 </br>
+6) Linux LFS101 - November 2026 </br>
+7) CCNP Enterprise: ENCOR (350-401) exam - planned for August 2027 + concentration exam, maybe ENAUTO (300-435) - under evaluation</br>
 8) TryHackMe (top 6%) - Network Security and Azure / Microsoft Sentinel related Rooms <a href="https://tryhackme.com/p/CyBorg35"> Hands-on Labs </a>
 
 </br>
