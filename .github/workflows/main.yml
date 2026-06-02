@@ -12,6 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      CREDLY_USER: miguel-borges
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
