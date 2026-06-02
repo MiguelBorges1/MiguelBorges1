@@ -4,8 +4,10 @@ on:
   schedule:
     # Runs at 17:30 UTC every day
     - cron: "30 17 * * *"
+
 jobs:
   update-readme:
+    timeout-minutes: 10
     name: Update Readme with badges
     runs-on: ubuntu-latest
     permissions:
