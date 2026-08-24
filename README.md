@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-I am a **Telecommunications Engineer** with extensive experience as a technical infrastructure professional who also manages projects. I'm a **Computer Networks Administrator** focused on Network Security and Cloud Technologies.
+A **Telecommunications Engineer** with extensive experience as a technical infrastructure professional who also manages projects. I'm a **Computer Networks Administrator** focused on Network Security and Cloud Technologies.
 
 I've worked at leading vendors and manufacturers including [Ericsson](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/portugal) and [Nokia](https://www.nokia.com/), as well as in consulting and service provider environments.
 
