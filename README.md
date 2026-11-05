@@ -31,10 +31,10 @@ Currently working on (weekends, holidays, and free time):
 
 1. **Microsoft Applied Skills** — [Hands-on Labs on Microsoft Learn](https://learn.microsoft.com/en-us/users/miguelborges/credentials?tab=applied-skills-tab)
 2. **Building Azure Projects** — Reinforcing skills in realistic environments, documenting on GitHub and writing on **Hashnode**
-3. **Azure Administrator Associate (AZ-104)** — Certification under active preparation | **Target: November 2026**
-4. **HashiCorp Terraform Associate (004)** — Certification exam | **Target: December 2026**
-5. **Linux LFS101** — Foundation course | **Target: January 2027**
-6. **Azure Network Engineer Associate (AZ-700)** - Planned for August 2027
+3. **Azure Administrator Associate (AZ-104)** — Certification under active preparation | **Target: January 2027**
+4. **HashiCorp Terraform Associate (004)** — Certification exam | **Target: February 2027**
+5. **Linux LFS101** — Foundation course | **Target: March 2027**
+6. **Azure Network Engineer Associate (AZ-700)** - Planned for September 2027
 7. **CCNP Enterprise: ENCOR (350-401)** — Planned for end of 2027, plus concentration exam (maybe ENAUTO 300-435, still under evaluation)
 8. **TryHackMe** — Top 6% | Network Security and Azure/Microsoft Sentinel focused [Hands-on Labs](https://tryhackme.com/p/CyBorg35)
 
