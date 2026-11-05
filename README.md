@@ -30,7 +30,7 @@ I believe in **self-assessment and structured learning**, so I keep building and
 Currently working on (weekends, holidays, and free time):
 
 1. **Microsoft Applied Skills** — [Hands-on Labs on Microsoft Learn](https://learn.microsoft.com/en-us/users/miguelborges/credentials?tab=applied-skills-tab)
-2. **Building Azure Projects** — Reinforcing skills in realistic environments, documenting on GitHub and writing on **Hashnode**
+2. **Building Azure Projects** — Reinforcing skills in realistic environments, documenting on GitHub and writing on **Medium**
 3. **Azure Administrator Associate (AZ-104)** — Certification under active preparation | **Target: January 2027**
 4. **HashiCorp Terraform Associate (004)** — Certification exam | **Target: February 2027**
 5. **Linux LFS101** — Foundation course | **Target: March 2027**
